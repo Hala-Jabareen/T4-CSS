@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.potfolio{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 735px;
+    justify-content: center;
+    align-content: center;
+    gap: 20px;
+}
+
+img{
+    width: 30%;
+    height: 300px;
+ 
+}
