@@ -3,15 +3,20 @@
     padding: 0;
 }
 
+.container{
+    display: flex;
+    height: 735px;
+    align-items: center;
 
+}
 
 .potfolio{
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    height: 735px;
+  
     justify-content: center;
-    align-content: center;
+
     gap: 20px;
 }
 
